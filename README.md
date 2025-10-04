@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm ankit, currently a learner(intermediate), from haryana</p>
+<p align="left">i'm ankit, currently a learner (intermediate), from haryana</p>
 
 ###
 
