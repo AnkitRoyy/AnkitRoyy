@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ creating bugs since 2020<br>📚 i'm currently learning c++<br>🎯 goals: learn ai/ml, dmbs, cloud computing and make some revolutionary project from my learnings<br>🎲 fun fact: learnt coding on 4gb ram laptop without ssd 😮‍💨(15-25mins to power on)</p>
+<p align="left">✨ creating bugs since 2020<br>📚 i'm currently learning c++<br>🎯 goals: learn ai/ml, dmbs, cloud computing and make some revolutionary project from my learnings<br>🎲 fun fact: learnt coding on 4gb ram laptop without ssd 😮‍💨nd with android studio, blender, virtual machine, unity, visual studio, visual studio code(15-25mins to power on)</p>
 
 ###
 
